@@ -1,3 +1,5 @@
+//code from https://gist.github.com/andijcr/90ee99f938298bec15ed
+
 #include <Adafruit_NeoPixel.h>
 
 const int NUM_LEDS = 16;           // number of leds in strip
